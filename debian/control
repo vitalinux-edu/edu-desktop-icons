@@ -9,5 +9,4 @@ Homepage: https://github.com/vitalinux-edu/edu-desktop-icons
 Package: edu-desktop-icons
 Architecture: all
 Depends: ${misc:Depends}
-Description: Vitalinux Edu icon themes.
- Includes Humanity, elementary, lubuntu and gnome icons.
+Description: Vitalinux Edu icons.
